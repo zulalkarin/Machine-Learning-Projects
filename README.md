@@ -1,25 +1,28 @@
 # Machine-Learning-Projects
 
-The course content: 
+<h2>The course content: </h2>
 
-Introduction and Basic Concepts Regression
-Linear Regression
-Polynomial Regression
-Logistic Regression
-Review of Probability
-Naive Bayes
-Word Embedding
-Gaussian Naive Bayes
-Bayesian Belief Networks
-Neural Networks
-Decision Trees
-Ensemble Learning and Random Forests
-Support Vector Machines (SVM) Features
-Measurement and interpretation
-Nearest Neighbor Classifier
-K-means clustering
-Hierarchical Clustering
-Mixture of Gaussians
-Expectation Maximization
-Dimensionality Reduction: PCA
-Reinforcement Learning
+<ul>
+  <li>Introduction and Basic Concepts Regression</li>
+  <li>Linear Regression</li>
+  <li>Polynomial Regression</li>
+  <li>Logistic Regression</li>
+  <li>Review of Probability</li>
+  <li>Naive Bayes</li>
+  <li>Word Embedding</li>
+  <li>Gaussian Naive Bayes</li>
+  <li>Bayesian Belief Networks</li>
+  <li>Neural Networks</li>
+  <li>Decision Trees</li>
+  <li>Ensemble Learning and Random Forests</li>
+  <li>Support Vector Machines (SVM) Features</li>
+  <li>Measurement and interpretation</li>
+  <li>Nearest Neighbor Classifier</li>
+  <li>K-means clustering</li>
+  <li>Hierarchical Clustering</li>
+  <li>Mixture of Gaussians</li>
+  <li>Expectation Maximization</li>
+  <li>Dimensionality Reduction: PCA</li>
+  <li>Reinforcement Learning</li>
+</ul>
+
